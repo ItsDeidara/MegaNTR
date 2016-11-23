@@ -1,6 +1,4 @@
-# Red
-
-[![N|Solid](http://www.se7ensins.com/styles/se7ensins7/xenique/logo_bg.png)](http://www.se7ensins.com/)
+# MegaNTR
 
  ### About
 MegaNTR is a project aimed to provide a simple NTR plugin for a majority if Nintendo 3DS games.
