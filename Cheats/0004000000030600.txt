@@ -1,0 +1,75 @@
+Mario Kart 7 (JPN), Mario Kart 7 v02 (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game203/, http://www.fort42.com/gateshark/game1482/
+----------------------------------------------------
+
+[90000 Coins Collected, Game v1.0]
+D3000000 14000000
+0013C794 00015F90
+
+[Mirror Mode, Game v1.0]
+D3000000 14000000
+2013C9C0 000000FF
+
+[All Gliders, Game v1.0]
+D3000000 14000000
+2013C9BC 0000003F
+
+[All Wheels, Game v1.0]
+D3000000 14000000
+2013C9B8 0000007F
+
+[All Karts, Game v1.0]
+D3000000 14000000
+1013C9B4 00003FFF
+
+[All Courses, Game v1.0]
+D3000000 14000000
+2013C9AB 0000003F
+
+[All Characters, Game v1.0]
+D3000000 14000000
+0013C9AC 01FF003F
+
+[Coin x 99,999 v1.0]
+D3000000 14000000
+0013C794 0001869F
+
+[Region Modifier]
+D3000000 14000000
+00145964 000000FF
+D2000000 00000000
+
+[90000 Coins Collected, Rev2 Game v1.1]
+D3000000 14000000
+0013BCB0 00015F90
+
+[Mirror Mode Unlocked, Rev2 Game v1.1]
+D3000000 14000000
+2013BEDC 000000FF
+
+[All Gliders, Rev2 Game v1.1]
+D3000000 14000000
+2013BED8 0000003F
+
+[All Wheels, Rev2 Game v1.1]
+D3000000 14000000
+2013BED4 0000007F
+
+[All Karts, Rev2 Game v1.1]
+D3000000 14000000
+1013BED0 00003FFF
+
+[All Courses, Rev2 Game v1.1]
+D3000000 14000000
+2013BEC7 0000003F
+
+[All Characters, Rev2 Game v1.1]
+D3000000 14000000
+0013BEC8 01FF003F
+
+[Coin x 99,999 v1.1]
+D3000000 14000000
+0013BCB0 0001869F

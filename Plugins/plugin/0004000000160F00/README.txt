@@ -1,0 +1,255 @@
+=============================================
+#	Generated with Gateshark2NTR	    #
+=============================================
+
+=============================================
+#	  How to use this plugin	    #
+=============================================
+1- Press [Select] to shows up the menu
+--> You can navigate in the menu with the DPAD Key UP and DOWN
+--> Press A to activate / de-activate a cheat
+--> Press B to exit the menu and return to the game
+--> You can change the hotkey for showing up the menu by pressing [Start] in the menu
+--> You can adjust the speed of the cheats execution by pressing [Select] in the menu
+Tip:
+-- You can easily navigate in a spoiler with those keys:
+   --> DPAD Key Left: Go back to the upper line of the spoiler
+   --> DPAD Key Right: Go to the last line of the spoiler
+
+=============================================
+#	Cheats available in this plugin	    #
+=============================================
+- Max/Inf Money
+- Max Money (Press L)
+- Have all Items x99 (Press L)
+- Inf all Items
+- Have all Equips x99 (Press L)
+- Inf all Equips
+- Have all Mats x99 (Press L)
+- Inf all Mats
+- Have all Tools (Press L)
+- Have all Recipes (Press L)
+- Inf HP Siela
+- Add 50 HP Siela (Press L)
+- Inf MP Siela
+- Add 50 MP Siela (Press L)
+- Add 100 EP Siela (Press L)
+- Max EP Siela
+- LVL 99 Siela (Press R)
+- Max Stomage Siela (Press L)
+- Inf Stomage Siela
+- Max STR Siela (Press L)
+- Max VIT Siela (Press L)
+- Max INT Siela (Press L)
+- Max MEN Siela (Press L)
+- Max AGI Siela (Press L)
+- Max HIT Siela (Press L)
+- Max ADV Siela (Press L)
+- Max LUK Siela (Press L)
+- Max All Stats Siela (Press L)
+- Max ElementEP 1 Siela (Press L)
+- Max ElementEP 2 Siela (Press L)
+- Max ElementEP 3 Siela (Press L)
+- Max ElementEP 4 Siela (Press L)
+- Max ElementEP 5 Siela (Press L)
+- Max All ElementEP Siela (Press L)
+- Have Skillset 1 Siela (Press R)
+- Have Skillset 2 Siela (Press R)
+- Have Skillset 3 Siela (Press R)
+- Have all Skills Siela (Press R)
+- Weapon Modifier Siela (Press UP)
+- Shield Modifier Siela (Press UP)
+- Suit Modifier Siela (Press UP)
+- Wearable Modifier Siela (Press UP)
+- Inf HP Fred
+- Add 50 HP Fred (Press L)
+- Inf MP Fred
+- Add 50 MP Fred (Press L)
+- Add 100 EP Fred (Press L)
+- Max EP Fred
+- LVL 99 Fred (Press R)
+- Max Stomage Fred (Press L)
+- Inf Stomage Fred
+- Max STR Fred (Press L)
+- Max VIT Fred (Press L)
+- Max INT Fred (Press L)
+- Max MEN Fred (Press L)
+- Max AGI Fred (Press L)
+- Max HIT Fred (Press L)
+- Max ADV Fred (Press L)
+- Max LUK Fred (Press L)
+- Max All Stats Fred (Press L)
+- Max ElementEP 1 Fred (Press L)
+- Max ElementEP 2 Fred (Press L)
+- Max ElementEP 3 Fred (Press L)
+- Max ElementEP 4 Fred (Press L)
+- Max ElementEP 5 Fred (Press L)
+- Max All ElementEP Fred (Press L)
+- Have Skillset 1 Fred (Press R)
+- Have Skillset 2 Fred (Press R)
+- Have Skillset 3 Fred (Press R)
+- Have all Skills Fred (Press R)
+- Weapon Modifier Fred (Press UP)
+- Shield Modifier Fred (Press UP)
+- Suit Modifier Fred (Press UP)
+- Wearable Modifier Fred (Press UP)
+- Inf HP Alfine
+- Add 50 HP Alfine (Press L)
+- Inf MP Alfine
+- Add 50 MP Alfine (Press L)
+- Add 100 EP Alfine (Press L)
+- Max EP Alfine
+- LVL 99 Alfine (Press R)
+- Max Stomage Alfine (Press L)
+- Inf Stomage Alfine
+- Max STR Alfine (Press L)
+- Max VIT Alfine (Press L)
+- Max INT Alfine (Press L)
+- Max MEN Alfine (Press L)
+- Max AGI Alfine (Press L)
+- Max HIT Alfine (Press L)
+- Max ADV Alfine (Press L)
+- Max LUK Alfine (Press L)
+- Max All Stats Alfine (Press L)
+- Max ElementEP 1 Alfine (Press L)
+- Max ElementEP 2 Alfine (Press L)
+- Max ElementEP 3 Alfine (Press L)
+- Max ElementEP 4 Alfine (Press L)
+- Max ElementEP 5 Alfine (Press L)
+- Max All ElementEP Alfine (Press L)
+- Have Skillset 1 Alfine (Press R)
+- Have Skillset 2 Alfine (Press R)
+- Have Skillset 3 Alfine (Press R)
+- Have all Skills Alfine (Press R)
+- Weapon Modifier Alfine (Press UP)
+- Shield Modifier Alfine (Press UP)
+- Suit Modifier Alfine (Press UP)
+- Wearable Modifier Alfine (Press UP)
+- Inf HP Alter
+- Add 50 HP Alter (Press L)
+- Inf MP Alter
+- Add 50 MP Alter (Press L)
+- Add 100 EP Alter (Press L)
+- Max EP Alter
+- LVL 99 Alter (Press R)
+- Max Stomage Alter (Press L)
+- Inf Stomage Alter
+- Max STR Alter (Press L)
+- Max VIT Alter (Press L)
+- Max INT Alter (Press L)
+- Max MEN Alter (Press L)
+- Max AGI Alter (Press L)
+- Max HIT Alter (Press L)
+- Max ADV Alter (Press L)
+- Max LUK Alter (Press L)
+- Max All Stats Alter (Press L)
+- Max ElementEP 1 Alter (Press L)
+- Max ElementEP 2 Alter (Press L)
+- Max ElementEP 3 Alter (Press L)
+- Max ElementEP 4 Alter (Press L)
+- Max ElementEP 5 Alter (Press L)
+- Max All ElementEP Alter (Press L)
+- Have Skillset 1 Alter (Press R)
+- Have Skillset 2 Alter (Press R)
+- Have Skillset 3 Alter (Press R)
+- Have all Skills Alter (Press R)
+- Weapon Modifier Alter (Press UP)
+- Shield Modifier Alter (Press UP)
+- Suit Modifier Alter (Press UP)
+- Wearable Modifier Alter (Press UP)
+- Inf HP Lidia
+- Add 50 HP Lidia (Press L)
+- Inf MP Lidia
+- Add 50 MP Lidia (Press L)
+- Add 100 EP Lidia (Press L)
+- Max EP Lidia
+- LVL 99 Lidia (Press R)
+- Max Stomage Lidia (Press L)
+- Inf Stomage Lidia
+- Max STR Lidia (Press L)
+- Max VIT Lidia (Press L)
+- Max INT Lidia (Press L)
+- Max MEN Lidia (Press L)
+- Max AGI Lidia (Press L)
+- Max HIT Lidia (Press L)
+- Max ADV Lidia (Press L)
+- Max LUK Lidia (Press L)
+- Max All Stats Lidia (Press L)
+- Max ElementEP 1 Lidia (Press L)
+- Max ElementEP 2 Lidia (Press L)
+- Max ElementEP 3 Lidia (Press L)
+- Max ElementEP 4 Lidia (Press L)
+- Max ElementEP 5 Lidia (Press L)
+- Max All ElementEP Lidia (Press L)
+- Have Skillset 1 Lidia (Press R)
+- Have Skillset 2 Lidia (Press R)
+- Have Skillset 3 Lidia (Press R)
+- Have all Skills Lidia (Press R)
+- Weapon Modifier Lidia (Press UP)
+- Shield Modifier Lidia (Press UP)
+- Suit Modifier Lidia (Press UP)
+- Wearable Modifier Lidia (Press UP)
+- Inf HP Elias
+- Add 50 HP Elias (Press L)
+- Inf MP Elias
+- Add 50 MP Elias (Press L)
+- Add 100 EP Elias (Press L)
+- Max EP Elias
+- LVL 99 Elias (Press R)
+- Max Stomage Elias (Press L)
+- Inf Stomage Elias
+- Max STR Elias (Press L)
+- Max VIT Elias (Press L)
+- Max INT Elias (Press L)
+- Max MEN Elias (Press L)
+- Max AGI Elias (Press L)
+- Max HIT Elias (Press L)
+- Max ADV Elias (Press L)
+- Max LUK Elias (Press L)
+- Max All Stats Elias (Press L)
+- Max ElementEP 1 Elias (Press L)
+- Max ElementEP 2 Elias (Press L)
+- Max ElementEP 3 Elias (Press L)
+- Max ElementEP 4 Elias (Press L)
+- Max ElementEP 5 Elias (Press L)
+- Max All ElementEP Elias (Press L)
+- Have Skillset 1 Elias (Press R)
+- Have Skillset 2 Elias (Press R)
+- Have Skillset 3 Elias (Press R)
+- Have all Skills Elias (Press R)
+- Weapon Modifier Elias (Press UP)
+- Shield Modifier Elias (Press UP)
+- Suit Modifier Elias (Press UP)
+- Wearable Modifier Elias (Press UP)
+- Inf HP Milija
+- Add 50 HP Milija (Press L)
+- Inf MP Milija
+- Add 50 MP Milija (Press L)
+- Add 100 EP Milija (Press L)
+- Max EP Milija
+- LVL 99 Milija (Press R)
+- Max Stomage Milija (Press L)
+- Inf Stomage Milija
+- Max STR Milija (Press L)
+- Max VIT Milija (Press L)
+- Max INT Milija (Press L)
+- Max MEN Milija (Press L)
+- Max AGI Milija (Press L)
+- Max HIT Milija (Press L)
+- Max ADV Milija (Press L)
+- Max LUK Milija (Press L)
+- Max All Stats Milija (Press L)
+- Max ElementEP 1 Milija (Press L)
+- Max ElementEP 2 Milija (Press L)
+- Max ElementEP 3 Milija (Press L)
+- Max ElementEP 4 Milija (Press L)
+- Max ElementEP 5 Milija (Press L)
+- Max All ElementEP Milija (Press L)
+- Have Skillset 1 Milija (Press R)
+- Have Skillset 2 Milija (Press R)
+- Have Skillset 3 Milija (Press R)
+- Have all Skills Milija (Press R)
+- Weapon Modifier Milija (Press UP)
+- Shield Modifier Milija (Press UP)
+- Suit Modifier Milija (Press UP)
+- Wearable Modifier Milija (Press UP)

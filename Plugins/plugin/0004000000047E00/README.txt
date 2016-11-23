@@ -1,0 +1,253 @@
+=============================================
+#	Generated with Gateshark2NTR	    #
+=============================================
+
+=============================================
+#	  How to use this plugin	    #
+=============================================
+1- Press [Select] to shows up the menu
+--> You can navigate in the menu with the DPAD Key UP and DOWN
+--> Press A to activate / de-activate a cheat
+--> Press B to exit the menu and return to the game
+--> You can change the hotkey for showing up the menu by pressing [Start] in the menu
+--> You can adjust the speed of the cheats execution by pressing [Select] in the menu
+Tip:
+-- You can easily navigate in a spoiler with those keys:
+   --> DPAD Key Left: Go back to the upper line of the spoiler
+   --> DPAD Key Right: Go to the last line of the spoiler
+
+=============================================
+#	Cheats available in this plugin	    #
+=============================================
+- Jumpheightchanger Luffy Ep2
+- Max Health Luffy Ep1 (Press L)
+- Refill Health Luffy Ep1 (Press R)
+- Max/Inf Health Luffy Ep1
+- Max Health Zolo Ep1 (Press L)
+- Refill Health Zolo Ep1 (Press R)
+- Max/Inf Health Zolo Ep1
+- Max Health Nami Ep1 (Press L)
+- Refill Health Nami Ep1 (Press R)
+- Max/Inf Health Nami Ep1
+- Max Health Usopp Ep1 (Press L)
+- Refill Health Usopp Ep1 (Press R)
+- Max/Inf Health Usopp Ep1
+- Max Health Sanji Ep1 (Press L)
+- Refill Health Sanji Ep1 (Press R)
+- Max/Inf Health Sanji Ep1
+- Max Health Chopper Ep1 (Press L)
+- Refill Health Chopper Ep1 (Press R)
+- Max/Inf Health Chopper Ep1
+- Max Health Robin Ep1 (Press L)
+- Refill Health Robin Ep1 (Press R)
+- Max/Inf Health Robin Ep1
+- Max Health Franky Ep1 (Press L)
+- Refill Health Franky Ep1 (Press R)
+- Max/Inf Health Franky Ep1
+- Max Health Brook Ep1 (Press L)
+- Refill Health Brook Ep1 (Press R)
+- Max/Inf Health Brook Ep1
+- Max SP Luffy Ep1 (Press L)
+- Refill SP Luffy Ep1 (Press R)
+- Max/Inf SP Luffy Ep1
+- Max SP Zolo Ep1 (Press L)
+- Refill SP Zolo Ep1 (Press R)
+- Max/Inf SP Zolo Ep1
+- Max SP Nami Ep1 (Press L)
+- Refill SP Nami Ep1 (Press R)
+- Max/Inf SP Nami Ep1
+- Max SP Usopp Ep1 (Press L)
+- Refill SP Usopp Ep1 (Press R)
+- Max/Inf SP Usopp Ep1
+- Max SP Sanji Ep1 (Press L)
+- Refill SP Sanji Ep1 (Press R)
+- Max/Inf SP Sanji Ep1
+- Max SP Chopper Ep1 (Press L)
+- Refill SP Chopper Ep1 (Press R)
+- Max/Inf SP Chopper Ep1
+- Max SP Robin Ep1 (Press L)
+- Refill SP Robin Ep1 (Press R)
+- Max/Inf SP Robin Ep1
+- Max SP Franky Ep1 (Press L)
+- Refill SP Franky Ep1 (Press R)
+- Max/Inf SP Franky Ep1
+- Max SP Brook Ep1 (Press L)
+- Refill SP Brook Ep1 (Press R)
+- Max/Inf SP Brook Ep1
+- Speedchanger Luffy Ep1
+- Speedchanger Zolo Ep1
+- Speedchanger Nami Ep1
+- Speedchanger Usopp Ep1
+- Speedchanger Sanji Ep1
+- Speedchanger Chopper Ep1
+- Speedchanger Robin Ep1
+- Speedchanger Franky Ep1
+- Speedchanger Brook Ep1
+- Jumpspeedchanger Luffy Ep1
+- Jumpspeedchanger Zolo Ep1
+- Jumpspeedchanger Nami Ep1
+- Jumpspeedchanger Usopp Ep1
+- Jumpspeedchanger Sanji Ep1
+- Jumpspeedchanger Chopper Ep1
+- Jumpspeedchanger Robin Ep1
+- Jumpspeedchanger Franky Ep1
+- Jumpspeedchanger Brook Ep1
+- Jumpheightchanger Luffy Ep1
+- Jumpheightchanger Zolo Ep1
+- Jumpheightchanger Nami Ep1
+- Jumpheightchanger Usopp Ep1
+- Jumpheightchanger Sanji Ep1
+- Jumpheightchanger Chopper Ep1
+- Jumpheightchanger Robin Ep1
+- Jumpheightchanger Franky Ep1
+- Jumpheightchanger Brook Ep1
+- Max Item P1 B1 Ep1 (Press L)
+- Max/Inf Item P1 B1 Ep1
+- Itemchanger P1 B1 Ep1
+- Max Item P2 B1 Ep1 (Press L)
+- Max/Inf Item P2 B1 Ep1
+- Itemchanger P2 B1 Ep1
+- Max Item P3 B1 Ep1 (Press L)
+- Max/Inf Item P3 B1 Ep1
+- Itemchanger P3 B1 Ep1
+- Max Item Whole Palette Ep1 (Press L)
+- Max/Inf Item Whole Palette Ep1
+- Max Item Inv Slot 1 Ep1 (Press L)
+- Max/Inf Item Inv Slot 1 Ep1
+- Itemchanger Inv Slot 1 Ep1
+- Max Blue GP Ep1 (Press L)
+- Refill Blue GP Ep1 (Press R)
+- Max/Inf Blue GP Ep1
+- Max Green GP Ep1 (Press L)
+- Refill Green GP Ep1 (Press R)
+- Max/Inf Green GP Ep1
+- Max Red GP Ep1 (Press L)
+- Refill Red GP Ep1 (Press R)
+- Max/Inf Red GP Ep1
+- Max Silver GP Ep1 (Press L)
+- Refill Silver GP Ep1 (Press R)
+- Max/Inf Silver GP Ep1
+- Max Black GP Ep1 (Press L)
+- Refill Black GP Ep1 (Press R)
+- Max/Inf Black GP Ep1
+- Max Gold GP Ep1 (Press L)
+- Refill Gold GP Ep1 (Press R)
+- Max/Inf Gold GP Ep1
+- Max All GP Ep1 (Press L)
+- Refill All GP Ep1 (Press R)
+- Max/Inf All GP Ep1
+- Max Health Luffy Ep2 (Press L)
+- Refill Health Luffy Ep2 (Press R)
+- Max/Inf Health Luffy Ep2
+- Max Health Zolo Ep2 (Press L)
+- Refill Health Zolo Ep2 (Press R)
+- Max/Inf Health Zolo Ep2
+- Max Health Nami Ep2 (Press L)
+- Refill Health Nami Ep2 (Press R)
+- Max/Inf Health Nami Ep2
+- Max Health Usopp Ep2 (Press L)
+- Refill Health Usopp Ep2 (Press R)
+- Max/Inf Health Usopp Ep2
+- Max Health Sanji Ep2 (Press L)
+- Refill Health Sanji Ep2 (Press R)
+- Max/Inf Health Sanji Ep2
+- Max Health Chopper Ep2 (Press L)
+- Refill Health Chopper Ep2 (Press R)
+- Max/Inf Health Chopper Ep2
+- Max Health Robin Ep2 (Press L)
+- Refill Health Robin Ep2 (Press R)
+- Max/Inf Health Robin Ep2
+- Max Health Franky Ep2 (Press L)
+- Refill Health Franky Ep2 (Press R)
+- Max/Inf Health Franky Ep2
+- Max Health Brook Ep2 (Press L)
+- Refill Health Brook Ep2 (Press R)
+- Max/Inf Health Brook Ep2
+- Max SP Luffy Ep2 (Press L)
+- Refill SP Luffy Ep2 (Press R)
+- Max/Inf SP Luffy Ep2
+- Max SP Zolo Ep2 (Press L)
+- Refill SP Zolo Ep2 (Press R)
+- Max/Inf SP Zolo Ep2
+- Max SP Nami Ep2 (Press L)
+- Refill SP Nami Ep2 (Press R)
+- Max/Inf SP Nami Ep2
+- Max SP Usopp Ep2 (Press L)
+- Refill SP Usopp Ep2 (Press R)
+- Max/Inf SP Usopp Ep2
+- Max SP Sanji Ep2 (Press L)
+- Refill SP Sanji Ep2 (Press R)
+- Max/Inf SP Sanji Ep2
+- Max SP Chopper Ep2 (Press L)
+- Refill SP Chopper Ep2 (Press R)
+- Max/Inf SP Chopper Ep2
+- Max SP Robin Ep2 (Press L)
+- Refill SP Robin Ep2 (Press R)
+- Max/Inf SP Robin Ep2
+- Max SP Franky (Press L)
+- Max/Inf SP Franky Ep2
+- Refill SP Franky Ep2 (Press R)
+- Max SP Brook Ep2 (Press L)
+- Refill SP Brook Ep2 (Press R)
+- Max/Inf SP Brook Ep2
+- Speedchanger Luffy Ep2
+- Speedchanger Zolo Ep2
+- Speedchanger Nami Ep2
+- Speedchanger Usopp Ep2
+- Speedchanger Sanji Ep2
+- Speedchanger Chopper Ep2
+- Speedchanger Robin Ep2
+- Speedchanger Franky Ep2
+- Speedchanger Brook Ep2
+- Jumpspeedchanger Luffy Ep2
+- Jumpspeedchanger Zolo Ep2
+- Jumpspeedchanger Nami Ep2
+- Jumpspeedchanger Usopp Ep2
+- Jumpspeedchanger Sanji Ep2
+- Jumpspeedchanger Chopper Ep2
+- Jumpspeedchanger Robin Ep2
+- Jumpspeedchanger Franky Ep2
+- Jumpspeedchanger Brook Ep2
+- Jumpheightchanger Zolo Ep2
+- Jumpheightchanger Nami Ep2
+- Jumpheightchanger Usopp Ep2
+- Jumpheightchanger Sanji Ep2
+- Jumpheightchanger Chopper Ep2
+- Jumpheightchanger Robin Ep2
+- Jumpheightchanger Franky Ep2
+- Jumpheightchanger Brook Ep2
+- Max Item P1 B1 Ep2 (Press L)
+- Max/Inf Item P1 B1 Ep2
+- Itemchanger P1 B1 Ep2
+- Max Item P2 B1 Ep2 (Press L)
+- Max/Inf Item P2 B1 Ep2
+- Itemchanger P2 B1 Ep2
+- Max Item P3 B1 Ep2 (Press L)
+- Max/Inf Item P3 B1 Ep2
+- Itemchanger P3 B1
+- Max Item Inv Slot 1 Ep2 (Press L)
+- Max/Inf Item Inv Slot 1 Ep2
+- Itemchanger Inv Slot 1 Ep2
+- Max Item Whole Palette Ep2 (Press L)
+- Max/Inf Item Whole Palette Ep2
+- Max Blue GP Ep2 (Press L)
+- Refill Blue GP Ep2 (Press R)
+- Max/Inf Blue GP Ep2
+- Max Green GP Ep2 (Press L)
+- Refill Green GP Ep2 (Press R)
+- Max/Inf Green GP Ep2
+- Max Red GP Ep2 (Press L)
+- Refill Red GP Ep2 (Press R)
+- Max/Inf Red GP Ep2
+- Max Silver GP Ep2 (Press L)
+- Refill Silver GP Ep2 (Press R)
+- Max/Inf Silver GP Ep2
+- Max Black GP Ep2 (Press L)
+- Refill Black GP Ep2 (Press R)
+- Max/Inf Black GP Ep2
+- Max Gold GP Ep2 (Press L)
+- Refill Gold GP Ep2 (Press R)
+- Max/Inf Gold GP Ep2
+- Max All GP Ep2 (Press L)
+- Refill All GP Ep2 (Press R)
+- Max/Inf All GP Ep2

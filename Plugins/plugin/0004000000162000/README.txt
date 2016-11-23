@@ -1,0 +1,384 @@
+=============================================
+#	Generated with Gateshark2NTR	    #
+=============================================
+
+=============================================
+#	  How to use this plugin	    #
+=============================================
+1- Press [Select] to shows up the menu
+--> You can navigate in the menu with the DPAD Key UP and DOWN
+--> Press A to activate / de-activate a cheat
+--> Press B to exit the menu and return to the game
+--> You can change the hotkey for showing up the menu by pressing [Start] in the menu
+--> You can adjust the speed of the cheats execution by pressing [Select] in the menu
+Tip:
+-- You can easily navigate in a spoiler with those keys:
+   --> DPAD Key Left: Go back to the upper line of the spoiler
+   --> DPAD Key Right: Go to the last line of the spoiler
+
+=============================================
+#	Cheats available in this plugin	    #
+=============================================
+- Max Money v1.2
+- All Items x99 v1.2
+- All Characters Infinite HP v1.2
+- All Characters Infinite SP v1.2
+- All Characters Max CP v1.2
+- All Characters Max EXP v1.2
+- All Characters Max ATK v1.2
+- All Characters Max DEF v1.2
+- All Characters Max TEC v1.2
+- All Characters Max DEX v1.2
+- All Characters Max Move v1.2
+- Ryu/Ken Infinite HP v1.2
+- Max Gold v1.0/1.2
+- All items x99 v1.0/1.2
+- All characters Max Exp v1.0
+- All characters Max Cp v1.0
+- All characters Max HP/SP v1.0
+- All characters Max Stats v1.0
+- Ryu/Ken Max Exp v1.0
+- Ryu/Ken Max CP v1.0
+- Ryu/Ken Max HP/SP v1.0
+- Ryu/Ken Max Stats v1.0
+- Ryu/Ken Max Atk v1.0
+- Ryu/Ken Max Def v1.0
+- Ryu/Ken Max Tec v1.0
+- Ryu/Ken Max Dex v1.0
+- Ryu/Ken Max Move v1.0
+- Chun-li/Xiaoyu Max Expv1.0
+- Chun-li/Xiaoyu Max CPv1.0
+- Chun-li/Xiaoyu Max HP/SP v1.0
+- Chun-li/Xiaoyu Max Stats v1.0
+- Chun-li/Xiaoyu Max Atk v1.0
+- Chun-li/Xiaoyu Max Def v1.0
+- Chun-li/Xiaoyu Max Tec v1.0
+- Chun-li/Xiaoyu Max Dex v1.0
+- Chun-li/Xiaoyu Max Move v1.0
+- Dante/Vergil Max Expv1.0
+- Dante/Vergil Max CPv1.0
+- Dante/Vergil Max HP/SP v1.0
+- Dante/Vergil Max Stats v1.0
+- Dante/Vergil Max Atk v1.0
+- Dante/Vergil Max Def v1.0
+- Dante/Vergil Max Tec v1.0
+- Dante/Vergil Max Dex v1.0
+- Dante/Vergil Max Move v1.0
+- Chris/Jill Max Expv1.0
+- Chris/Jill Max CPv1.0
+- Chris/Jill Max HP/SP v1.0
+- Chris/Jill Max Stats v1.0
+- Chris/Jill Max Atk v1.0
+- Chris/Jill Max Def v1.0
+- Chris/Jill Max Tec v1.0
+- Chris/Jill Max Dex v1.0
+- Chris/Jill Max Move v1.0
+- Demitri/Morrigan Max Expv1.0
+- Demitri/Morrigan Max CPv1.0
+- Demitri/Morrigan Max HP/SP v1.0
+- Demitri/Morrigan Max Stats v1.0
+- Demitri/Morrigan Max Atk v1.0
+- Demitri/Morrigan Max Def v1.0
+- Demitri/Morrigan Max Tec v1.0
+- Demitri/Morrigan Max Dex v1.0
+- Demitri/Morrigan Max Move v1.0
+- X/Zero Max Exp v1.0
+- X/Zero Max CP v1.0
+- X/Zero Max HP/SP v1.0
+- X/Zero Max Stats v1.0
+- X/Zero Max Atk v1.0
+- X/Zero Max Def v1.0
+- X/Zero Max Tec v1.0
+- X/Zero Max Dex v1.0
+- X/Zero Max Move v1.0
+- Hiryu/Hotsuma Max Expv1.0
+- Hiryu/Hotsuma Max CPv1.0
+- Hiryu/Hotsuma Max HP/SP v1.0
+- Hiryu/Hotsuma Max Stats v1.0
+- Hiryu/Hotsuma Max Atk v1.0
+- Hiryu/Hotsuma Max Def v1.0
+- Hiryu/Hotsuma Max Tec v1.0
+- Hiryu/Hotsuma Max Dex v1.0
+- Hiryu/Hotsuma Max Move v1.0
+- Akira/Kage Maru Max Expv1.0
+- Akira/Kage Maru Max CPv1.0
+- Akira/Kage Maru HP/SP v1.0
+- Akira/Kage Maru Stats v1.0
+- Akira/Kage Maru Atk v1.0
+- Akira/Kage Maru Max Def v1.0
+- Akira/Kage Maru Max Tec v1.0
+- Akira/Kage Maru Max Dex v1.0
+- Akira/Kage Maru Max Move v1.0
+- Ichiro/Erica Max Expv1.0
+- Ichiro/Erica Max CPv1.0
+- Ichiro/Erica Max HP/SP v1.0
+- Ichiro/Erica Max Stats v1.0
+- Ichiro/Erica Max Atk v1.0
+- Ichiro/Erica Max Def v1.0
+- Ichiro/Erica Max Tec v1.0
+- Ichiro/Erica Max Dex v1.0
+- Ichiro/Erica Max Move v1.0
+- Sakura/Gemini Max Expv1.0
+- Sakura/Gemini Max CPv1.0
+- Sakura/Gemini Max HP/SP v1.0
+- Sakura/Gemini Max Stats v1.0
+- Sakura/Gemini Max Atk v1.0
+- Sakura/Gemini Max Def v1.0
+- Sakura/Gemini Max Tec v1.0
+- Sakura/Gemini Max Dex v1.0
+- Sakura/Gemini Max Move v1.0
+- Kiryu/Majima Max Expv1.0
+- Kiryu/Majima Max CPv1.0
+- Kiryu/Majima Max HP/SP v1.0
+- Kiryu/Majima Max Atk v1.0
+- Kiryu/Majima Max Def v1.0
+- Kiryu/Majima Max Tec v1.0
+- Kiryu/Majima Max Dex v1.0
+- Kiryu/Majima Max Move v1.0
+- Zephyr/Vashyron Max Expv1.0
+- Zephyr/Vashyron Max CPv1.0
+- Zephyr/Vashyron Max HP/SP v1.0
+- Zephyr/Vashyron Max Stats v1.0
+- Zephyr/Vashyron Max Atk v1.0
+- Zephyr/Vashyron Max Def v1.0
+- Zephyr/Vashyron Max Tec v1.0
+- Zephyr/Vashyron Max Dex v1.0
+- Zephyr/Vashyron Max Move v1.0
+- Jin/Kazuya Max Expv1.0
+- Jin/Kazuya Max CPv1.0
+- Jin/Kazuya Max HP/SP v1.0
+- Jin/Kazuya Max Stats v1.0
+- Jin/Kazuya Max Atk v1.0
+- Jin/Kazuya Max Def v1.0
+- Jin/Kazuya Max Tec v1.0
+- Jin/Kazuya Max Dex v1.0
+- Jin/Kazuya Max Move v1.0
+- Yuri/Flynn Max Expv1.0
+- Yuri/Flynn Max CPv1.0
+- Yuri/Flynn Max HP/SP v1.0
+- Yuri/Flynn Max Stats v1.0
+- Yuri/Flynn Max Atk v1.0
+- Yuri/Flynn Max Def v1.0
+- Yuri/Flynn Max Tec v1.0
+- Yuri/Flynn Max Dex v1.0
+- Yuri/Flynn Max Move v1.0
+- Ciel/Nana Max Expv1.0
+- Ciel/Nana Max CPv1.0
+- Ciel/Nana Max HP/SP v1.0
+- Ciel/Nana Max Stats v1.0
+- Ciel/Nana Max Atk v1.0
+- Ciel/Nana Max Def v1.0
+- Ciel/Nana Max Tec v1.0
+- Ciel/Nana Max Dex v1.0
+- Ciel/Nana Max Move v1.0
+- Kite/Haseo Max Expv1.0
+- Kite/Haseo Max CPv1.0
+- Kite/Haseo Max HP/SP v1.0
+- Kite/Haseo Max Stats v1.0
+- Kite/Haseo Max Atk v1.0
+- Kite/Haseo Max Def v1.0
+- Kite/Haseo Max Tec v1.0
+- Kite/Haseo Max Dex v1.0
+- Kite/Haseo Max Move v1.0
+- Reiji/Xiaomu Max Expv1.0
+- Reiji/Xiaomu Max CPv1.0
+- Reiji/Xiaomu Max HP/SP v1.0
+- Reiji/Xiaomu Max Stats v1.0
+- Reiji/Xiaomu Max Atk v1.0
+- Reiji/Xiaomu Max Def v1.0
+- Reiji/Xiaomu Max Tec v1.0
+- Reiji/Xiaomu Max Dex v1.0
+- Reiji/Xiaomu Max Move v1.0
+- KOS-MOS/Fiora Max Expv1.0
+- KOS-MOS/Fiora Max CPv1.0
+- KOS-MOS/Fiora HP/SP v1.0
+- KOS-MOS/Fiora Stats v1.0
+- KOS-MOS/Fiora Atk v1.0
+- KOS-MOS/Fiora Def v1.0
+- KOS-MOS/Fiora Tec v1.0
+- KOS-MOS/Fiora Dex v1.0
+- KOS-MOS/Fiora Move v1.0
+- Chrom/Lucina Max Expv1.0
+- Chrom/Lucina Max CPv1.0
+- Chrom/Lucina Max HP/SP v1.0
+- Chrom/Lucina Max Stats v1.0
+- Chrom/Lucina Max Atk v1.0
+- Chrom/Lucina Max Def v1.0
+- Chrom/Lucina Max Tec v1.0
+- Chrom/Lucina Max Dex v1.0
+- Chrom/Lucina Max Move v1.0
+- All characters Max Atk v1.0
+- All characters Max Def v1.0
+- All characters Max Tec v1.0
+- All characters Max Dex v1.0
+- All characters Max Move v1.0
+- Ryu/Ken Infinite SP v1.2
+- Ryu/Ken Max CP v1.2
+- Ryu/Ken Max EXP v1.2
+- Ryu/Ken Max ATK v1.2
+- Ryu/Ken Max DEF v1.2
+- Ryu/Ken Max TEC v1.2
+- Ryu/Ken Max DEX v1.2
+- Ryu/Ken Max Move v1.2
+- Chun-li/Xiaoyu Infinite HP v1.2
+- Chun-li/Xiaoyu Infinite SP v1.2
+- Chun-li/Xiaoyu Max CP v1.2
+- Chun-li/Xiaoyu Max EXP v1.2
+- Chun-li/Xiaoyu Max ATK v1.2
+- Chun-li/Xiaoyu Max DEF v1.2
+- Chun-li/Xiaoyu Max TEC v1.2
+- Chun-li/Xiaoyu Max DEX v1.2
+- Chun-li/Xiaoyu Max Move v1.2
+- Dante/Vergil Infinite HP v1.2
+- Dante/Vergil Infinite SP v1.2
+- Dante/Vergil Max CP v1.2
+- Dante/Vergil Max EXP v1.2
+- Dante/Vergil Max ATK v1.2
+- Dante/Vergil Max DEF v1.2
+- Dante/Vergil Max TEC v1.2
+- Dante/Vergil Max DEX v1.2
+- Dante/Vergil Max Move v1.2
+- Chris/Jill Infinite HP v1.2
+- Chris/Jill Infinite SP v1.2
+- Chris/Jill Max CP v1.2
+- Chris/Jill Max EXP v1.2
+- Chris/Jill Max ATK v1.2
+- Chris/Jill Max DEF v1.2
+- Chris/Jill Max TEC v1.2
+- Chris/Jill Max DEX v1.2
+- Chris/Jill Max Move v1.2
+- Demitri/Morrigan Infinite HP v1.2
+- Demitri/Morrigan Infinite SP v1.2
+- Demitri/Morrigan Max CP v1.2
+- Demitri/Morrigan Max EXP v1.2
+- Demitri/Morrigan Max ATK v1.2
+- Demitri/Morrigan Max DEF v1.2
+- Demitri/Morrigan Max TEC v1.2
+- Demitri/Morrigan Max DEX v1.2
+- Demitri/Morrigan Max Move v1.2
+- X/Zero Infinite HP v1.2
+- X/Zero Infinite SP v1.2
+- X/Zero Max CP v1.2
+- X/Zero Max EXP v1.2
+- X/Zero Max ATK v1.2
+- X/Zero Max DEF v1.2
+- X/Zero Max TEC v1.2
+- X/Zero Max DEX v1.2
+- X/Zero Max Move v1.2
+- Hiryu/Hotsuma Infinite HP v1.2
+- Hiryu/Hotsuma Infinite SP v1.2
+- Hiryu/Hotsuma Max CP v1.2
+- Hiryu/Hotsuma Max EXP v1.2
+- Hiryu/Hotsuma Max ATK v1.2
+- Hiryu/Hotsuma Max DEF v1.2
+- Hiryu/Hotsuma Max TEC v1.2
+- Hiryu/Hotsuma Max DEX v1.2
+- Hiryu/Hotsuma Max Move v1.2
+- Akira/Kage Maru Infinite HP v1.2
+- Akira/Kage Maru Infinite SP v1.2
+- Akira/Kage Maru Max CP v1.2
+- Akira/Kage Maru Max EXP v1.2
+- Akira/Kage Maru Max ATK v1.2
+- Akira/Kage Maru Max DEF v1.2
+- Akira/Kage Maru Max TEC v1.2
+- Akira/Kage Maru Max DEX v1.2
+- Akira/Kage Maru Max Move v1.2
+- Ichiro/Erica Infinite HP v1.2
+- Ichiro/Erica Infinite SP v1.2
+- Ichiro/Erica Max CP v1.2
+- Ichiro/Erica Max EXP v1.2
+- Ichiro/Erica Max ATK v1.2
+- Ichiro/Erica Max DEF v1.2
+- Ichiro/Erica Max TEC v1.2
+- Ichiro/Erica Max DEX v1.2
+- Ichiro/Erica Max Move v1.2
+- Sakura/Gemini Infinite HP v1.2
+- Sakura/Gemini Infinite SP v1.2
+- Sakura/Gemini Max CP v1.2
+- Sakura/Gemini Max EXP v1.2
+- Sakura/Gemini Max ATK v1.2
+- Sakura/Gemini Max DEF v1.2
+- Sakura/Gemini Max TEC v1.2
+- Sakura/Gemini Max DEX v1.2
+- Sakura/Gemini Max Move v1.2
+- Kiryu/Majima Infinite HP v1.2
+- Kiryu/Majima Infinite SP v1.2
+- Kiryu/Majima Max CP v1.2
+- Kiryu/Majima Max EXP v1.2
+- Kiryu/Majima Max ATK v1.2
+- Kiryu/Majima Max DEF v1.2
+- Kiryu/Majima Max TEC v1.2
+- Kiryu/Majima Max DEX v1.2
+- Kiryu/Majima Max Move v1.2
+- Zephyr/Vashyron Infinite HP v1.2
+- Zephyr/Vashyron Infinite SP v1.2
+- Zephyr/Vashyron Max CP v1.2
+- Zephyr/Vashyron Max EXP v1.2
+- Zephyr/Vashyron Max ATK v1.2
+- Zephyr/Vashyron Max DEF v1.2
+- Zephyr/Vashyron Max TEC v1.2
+- Zephyr/Vashyron Max DEX v1.2
+- Zephyr/Vashyron Max Move v1.2
+- Jin/Kazuya Infinite HP v1.2
+- Jin/Kazuya Infinite SP v1.2
+- Jin/Kazuya Max CP v1.2
+- Jin/Kazuya Max EXP v1.2
+- Jin/Kazuya Max ATK v1.2
+- Jin/Kazuya Max DEF v1.2
+- Jin/Kazuya Max TEC v1.2
+- Jin/Kazuya Max DEX v1.2
+- Jin/Kazuya Max Move v1.2
+- Yuri/Flynn Infinite HP v1.2
+- Yuri/Flynn Infinite SP v1.2
+- Yuri/Flynn Max CP v1.2
+- Yuri/Flynn Max EXP v1.2
+- Yuri/Flynn Max ATK v1.2
+- Yuri/Flynn Max DEF v1.2
+- Yuri/Flynn Max TEC v1.2
+- Yuri/Flynn Max DEX v1.2
+- Yuri/Flynn Max Move v1.2
+- Ciel/Nana Infinite HP v1.2
+- Ciel/Nana Infinite SP v1.2
+- Ciel/Nana Max CP v1.2
+- Ciel/Nana Max EXP v1.2
+- Ciel/Nana Max ATK v1.2
+- Ciel/Nana Max DEF v1.2
+- Ciel/Nana Max TEC v1.2
+- Ciel/Nana Max DEX v1.2
+- Ciel/Nana Max Move v1.2
+- Kite/Haseo Infinite HP v1.2
+- Kite/Haseo Infinite SP v1.2
+- Kite/Haseo Max CP v1.2
+- Kite/Haseo Max EXP v1.2
+- Kite/Haseo Max ATK v1.2
+- Kite/Haseo Max DEF v1.2
+- Kite/Haseo Max TEC v1.2
+- Kite/Haseo Max DEX v1.2
+- Kite/Haseo Max Move v1.2
+- Reiji/Xiaomu Infinite HP v1.2
+- Reiji/Xiaomu Infinite SP v1.2
+- Reiji/Xiaomu Max CP v1.2
+- Reiji/Xiaomu Max EXP v1.2
+- Reiji/Xiaomu Max ATK v1.2
+- Reiji/Xiaomu Max DEF v1.2
+- Reiji/Xiaomu Max TEC v1.2
+- Reiji/Xiaomu Max DEX v1.2
+- Reiji/Xiaomu Max Move v1.2
+- KOS-MOS/Fiora Infinite HP v1.2
+- KOS-MOS/Fiora Infinite SP v1.2
+- KOS-MOS/Fiora Max CP v1.2
+- KOS-MOS/Fiora Max EXP v1.2
+- KOS-MOS/Fiora Max ATK v1.2
+- KOS-MOS/Fiora Max DEF v1.2
+- KOS-MOS/Fiora Max TEC v1.2
+- KOS-MOS/Fiora Max DEX v1.2
+- KOS-MOS/Fiora Max Move v1.2
+- Chrom/LucinaInfinite HP v1.2
+- Chrom/LucinaInfinite SP v1.2
+- Chrom/LucinaMax CP v1.2
+- Chrom/LucinaMax EXP v1.2
+- Chrom/LucinaMax ATK v1.2
+- Chrom/LucinaMax DEF v1.2
+- Chrom/LucinaMax TEC v1.2
+- Chrom/LucinaMax DEX v1.2
+- Chrom/LucinaMax Move v1.2

@@ -1,0 +1,146 @@
+=============================================
+#	Generated with Gateshark2NTR	    #
+=============================================
+
+=============================================
+#	  How to use this plugin	    #
+=============================================
+1- Press [Select] to shows up the menu
+--> You can navigate in the menu with the DPAD Key UP and DOWN
+--> Press A to activate / de-activate a cheat
+--> Press B to exit the menu and return to the game
+--> You can change the hotkey for showing up the menu by pressing [Start] in the menu
+--> You can adjust the speed of the cheats execution by pressing [Select] in the menu
+Tip:
+-- You can easily navigate in a spoiler with those keys:
+   --> DPAD Key Left: Go back to the upper line of the spoiler
+   --> DPAD Key Right: Go to the last line of the spoiler
+
+=============================================
+#	Cheats available in this plugin	    #
+=============================================
+- Max/Inf HP v1.4
+- Money 999998
+- Item Position 1 x99
+- Pokemon Generator
+- Max Money, Game v1.0
+- O-Power Always Full
+- Hold R on route 116 to find a mew with yo
+- 999 master balls in slot 1
+- DexNav Pokemon Generator
+- Top Lv Up Itens x999
+- Quick Egg Hatching
+- Refill all AP (Press L) v1.4
+- Refill all HP (Press L) v1.4
+- Max/Inf AP v1.4
+- Max all HP (Press R) v1.4
+- Max all AP (Press R) v1.4
+- All Lvl 100 after Battle (Press Y) v1.4
+- Lvl 100 aft battle 1st PKMN (Press Y) v1.
+- 1st ATK 1st PKMN Modifier v1.4
+- 2nd ATK 1st PKMN Modifier v1.4
+- 3rd ATK 1st PKMN Modifier v1.4
+- 4th ATK 1st PKMN Modifier v1.4
+- Refill HP 1st PKMN (Press L) v1.4
+- Max HP 1st Pokemon (Press R) v1.4
+- Refill All AP 1st PKMN (Press L) v1.4
+- Max All AP 1st PKMN (Press R) v1.4
+- Refill AP 1st ATK 1st PKMN (Press UP+L) v
+- Max AP 1st ATK 1st PKMN (Press UP+R) v1.4
+- Refill AP 2nd ATK 1st PKMN (Press RIGHT+L
+- Max AP 2nd ATK 1st PKMN (Press RIGHT+R) v
+- Refill AP 3rd ATK 1st PKMN (Press DOWN+L)
+- Max AP 3rd ATK 1st PKMN (Press DOWN+R) v1
+- Refill AP 4th ATK 1st PKMN (Press LEFT+L)
+- Max AP 4th ATK 1st PKMN (Press LEFT+R) v1
+- Lvl 100 aft battle 2nd PKMN (Press Y) v1.
+- 1st ATK 2nd PKMN Modifier v1.4
+- 2nd ATK 2nd PKMN Modifier v1.4
+- 3rd ATK 2nd PKMN Modifier v1.4
+- 4th ATK 2nd PKMN Modifier v1.4
+- Refill HP 2nd PKMN (Press L) v1.4
+- Max HP 2nd Pokemon (Press R) v1.4
+- Refill All AP 2nd PKMN (Press L) v1.4
+- Max All AP 2nd PKMN (Press R) v1.4
+- Refill AP 1st ATK 2nd PKMN (Press UP+L) v
+- Max AP 1st ATK 2nd PKMN (Press UP+R) v1.4
+- Refill AP 2nd ATK 2nd PKMN (Press RIGHT+L
+- Max AP 2nd ATK 2nd PKMN (Press RIGHT+R) v
+- Refill AP 3rd ATK 2nd PKMN (Press DOWN+L)
+- Max AP 3rd ATK 2nd PKMN (Press DOWN+R) v1
+- Refill AP 4th ATK 2nd PKMN (Press LEFT+L)
+- Max AP 4th ATK 2nd PKMN (Press LEFT+R) v1
+- Lvl 100 aft battle 3rd PKMN (Press Y) v1.
+- 1st ATK 3rd PKMN Modifier v1.4
+- 2nd ATK 3rd PKMN Modifier v1.4
+- 3rd ATK 3rd PKMN Modifier v1.4
+- 4th ATK 3rd PKMN Modifier v1.4
+- Refill HP 3rd PKMN (Press L) v1.4
+- Max HP 3rd Pokemon (Press R) v1.4
+- Refill All AP 3rd PKMN (Press L) v1.4
+- Max All AP 3rd PKMN (Press R) v1.4
+- Refill AP 1st ATK 3rd PKMN (Press UP+L) v
+- Max AP 1st ATK 3rd PKMN (Press UP+R) v1.4
+- Refill AP 2nd ATK 3rd PKMN (Press RIGHT+L
+- Max AP 2nd ATK 3rd PKMN (Press RIGHT+R) v
+- Refill AP 3rd ATK 3rd PKMN (Press DOWN+L)
+- Max AP 3rd ATK 3rd PKMN (Press DOWN+R) v1
+- Refill AP 4th ATK 3rd PKMN (Press LEFT+L)
+- Max AP 4th ATK 3rd PKMN (Press LEFT+R) v1
+- Lvl 100 aft battle 4th PKMN (Press Y) v1.
+- 1st ATK 4th PKMN Modifier v1.4
+- 2nd ATK 4th PKMN Modifier v1.4
+- 3rd ATK 4th PKMN Modifier v1.4
+- 4th ATK 4th PKMN Modifier v1.4
+- Refill HP 4th PKMN (Press L) v1.4
+- Max HP 4th Pokemon (Press R) v1.4
+- Refill All AP 4th PKMN (Press L) v1.4
+- Max All AP 4th PKMN (Press R) v1.4
+- Refill AP 1st ATK 4th PKMN (Press UP+L) v
+- Max AP 1st ATK 4th PKMN (Press UP+R) v1.4
+- Refill AP 2nd ATK 4th PKMN (Press RIGHT+L
+- Max AP 2nd ATK 4th PKMN (Press RIGHT+R) v
+- Refill AP 3rd ATK 4th PKMN (Press DOWN+L)
+- Max AP 3rd ATK 4th PKMN (Press DOWN+R) v1
+- Refill AP 4th ATK 4th PKMN (Press LEFT+L)
+- Max AP 4th ATK 4th PKMN (Press LEFT+R) v1
+- Lvl 100 aft battle 5th PKMN (Press Y) v1.
+- 1st ATK 5th PKMN Modifier v1.4
+- 2nd ATK 5th PKMN Modifier v1.4
+- 3rd ATK 5th PKMN Modifier v1.4
+- 4th ATK 5th PKMN Modifier v1.4
+- Refill HP 5th PKMN (Press L) v1.4
+- Max HP 5th Pokemon (Press R) v1.4
+- Refill All AP 5th PKMN (Press L) v1.4
+- Max All AP 5th PKMN (Press R) v1.4
+- Refill AP 1st ATK 5th PKMN (Press UP+L) v
+- Max AP 1st ATK 5th PKMN (Press UP+R) v1.4
+- Refill AP 2nd ATK 5th PKMN (Press RIGHT+L
+- Max AP 2nd ATK 5th PKMN (Press RIGHT+R) v
+- Refill AP 3rd ATK 5th PKMN (Press DOWN+L)
+- Max AP 3rd ATK 5th PKMN (Press DOWN+R) v1
+- Refill AP 4th ATK 5th PKMN (Press LEFT+L)
+- Max AP 4th ATK 5th PKMN (Press LEFT+R) v1
+- Lvl 100 aft battle 6th PKMN (Press Y) v1.
+- 1st ATK 6th PKMN Modifier v1.4
+- 2nd ATK 6th PKMN Modifier v1.4
+- 3rd ATK 6th PKMN Modifier v1.4
+- 4th ATK 6th PKMN Modifier v1.4
+- Refill HP 6th PKMN (Press L) v1.4
+- Max HP 6th Pokemon (Press R) v1.4
+- Refill All AP 6th PKMN (Press L) v1.4
+- Max All AP 6th PKMN (Press R) v1.4
+- Refill AP 1st ATK 6th PKMN (Press UP+L) v
+- Max AP 1st ATK 6th PKMN (Press UP+R) v1.4
+- Refill AP 2nd ATK 6th PKMN (Press RIGHT+L
+- Max AP 2nd ATK 6th PKMN (Press RIGHT+R) v
+- Refill AP 3rd ATK 6th PKMN (Press DOWN+L)
+- Max AP 3rd ATK 6th PKMN (Press DOWN+R) v1
+- Refill AP 4th ATK 6th PKMN (Press LEFT+L)
+- Max AP 4th ATK 6th PKMN (Press LEFT+R) v1
+- Generate (Shiny) Pokémon (DexNav) for V1
+- 100% Catch rate
+- Ride Mach Bike Anywhere v1.4
+- Ride Acro Bike Anywhere v1.4
+- Hover Board v1.4
+- Eon Ticket Slot 7 Key Items

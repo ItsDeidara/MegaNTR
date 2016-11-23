@@ -1,0 +1,42 @@
+The Legend of Zelda - A Link Between Worlds (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game479/
+----------------------------------------------------
+
+[Max Rupees]
+D3000000 14000000
+128B73A8 0000270F
+
+[Max Monster Tails]
+D3000000 14000000
+128B73B1 00000063
+
+[Max Monster Guts]
+D3000000 14000000
+128B73B2 00000063
+
+[Max Monster Horns]
+D3000000 14000000
+128B73B3 00000063
+
+[Max Miamias]
+D3000000 14000000
+128B73B4 00000064
+
+[Full Hearts]
+D3000000 14000000
+128B7444 00005050
+
+[Have 5 Dungeon Keys]
+D3000000 14000000
+128B72DC 00000005
+
+[Infinite Power Meter]
+D3000000 14000000
+128BB3CA 00004416
+
+[Reset Amount of Rupees]
+D3000000 14000000
+128B73A8 00000000

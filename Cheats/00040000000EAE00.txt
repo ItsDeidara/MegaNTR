@@ -1,0 +1,12 @@
+Harvest Moon 3D - A New Beginning (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game584/
+----------------------------------------------------
+
+[Infinite Health]
+085AF0E4 00000064
+
+[Infinite Money]
+085AF0DC 0098967F

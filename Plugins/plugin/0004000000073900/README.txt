@@ -1,0 +1,192 @@
+=============================================
+#	Generated with Gateshark2NTR	    #
+=============================================
+
+=============================================
+#	  How to use this plugin	    #
+=============================================
+1- Press [Select] to shows up the menu
+--> You can navigate in the menu with the DPAD Key UP and DOWN
+--> Press A to activate / de-activate a cheat
+--> Press B to exit the menu and return to the game
+--> You can change the hotkey for showing up the menu by pressing [Start] in the menu
+--> You can adjust the speed of the cheats execution by pressing [Select] in the menu
+Tip:
+-- You can easily navigate in a spoiler with those keys:
+   --> DPAD Key Left: Go back to the upper line of the spoiler
+   --> DPAD Key Right: Go to the last line of the spoiler
+
+=============================================
+#	Cheats available in this plugin	    #
+=============================================
+- Max exp. all characters
+- All gears x21
+- All accesory x21
+- All items x21
+- Max EXP Kogoro & Mii
+- Max EXP Jin & Ling
+- Max EXP Yuri & Estellise
+- Max EXP Soma & Alisa
+- Max EXP Kite & BlackRose
+- Max EXP Reiji & Xiaomu
+- Max EXP Haken & Kaguya
+- Max EXP KOS-MOS & T-elos
+- Max EXP Ryu & Ken
+- Max EXP Chun-Li & Morrigan
+- Max EXP Dante & Demitri
+- Max EXP Frank & Hsien-Ko
+- Max EXP X & Zero
+- Max EXP Chris & Jill
+- Max EXP Akira & Pai
+- Max EXP Ichiro & Sakura
+- Max EXP Gemini & Erica
+- Max EXP Kurt & Riela
+- Max EXP Zephyr & Leanne
+- Max EXP Toma & Cyrille
+- All Characters Max HP
+- All Characters Max Str
+- All Characters Max Def
+- All Characters Max Spd
+- All Characters Max Tec
+- All Characters Max Move
+- Kogoro/Mii Max HP
+- Kogoro/Mii Max Stats
+- All Characters Max Stats
+- Kogoro/Mii Max Str
+- Kogoro/Mii Max Def
+- Kogoro/Mii Max Spd
+- Kogoro/Mii Max Tec
+- Kogoro/Mii Max Move
+- Jin/Ling Max HP
+- Jin/Ling Max Stats
+- Jin/Ling Max Str
+- Jin/Ling Max Def
+- Jin/Ling Max Spd
+- Jin/Ling Max Tec
+- Jin/Ling Max Move
+- Yuri/Estellise Max HP
+- Yuri/Estellise Max Stats
+- Yuri/Estellise Max Str
+- Yuri/Estellise Max Def
+- Yuri/Estellise Max Spd
+- Yuri/Estellise Max Tec
+- Yuri/Estellise Max Move
+- Soma/Alisa Max HP
+- Soma/Alisa Max Stats
+- Soma/Alisa Max Str
+- Soma/Alisa Max Def
+- Soma/Alisa Max Spd
+- Soma/Alisa Max Tec
+- Soma/Alisa Max Move
+- Kite/BlackRose Max HP
+- Kite/BlackRose Max Stats
+- Kite/BlackRose Max Str
+- Kite/BlackRose Max Def
+- Kite/BlackRose Max Spd
+- Kite/BlackRose Max Tec
+- Kite/BlackRose Max Move
+- Reiji/Xiaomu Max HP
+- Reiji/Xiaomu Max Stats
+- Reiji/Xiaomu Max Str
+- Reiji/Xiaomu Max Def
+- Reiji/Xiaomu Max Spd
+- Reiji/Xiaomu Max Tec
+- Reiji/Xiaomu Max Move
+- Haken/Kaguya Max HP
+- Haken/Kaguya Max Stats
+- Haken/Kaguya Max Str
+- Haken/Kaguya Max Def
+- Haken/Kaguya Max Spd
+- Haken/Kaguya Max Tec
+- Haken/Kaguya Max Move
+- KOS-MOS/T-elos Max HP
+- KOS-MOS/T-elos Max Stats
+- KOS-MOS/T-elos Max Str
+- KOS-MOS/T-elos Max Def
+- KOS-MOS/T-elos Max Spd
+- KOS-MOS/T-elos Max Tec
+- KOS-MOS/T-elos Max Move
+- Ryu/Ken Max Hp
+- Ryu/Ken Max Stats
+- Ryu/Ken Max Str
+- Ryu/Ken Max Def
+- Ryu/Ken Max Spd
+- Ryu/Ken Max Tec
+- Ryu/Ken Max Move
+- Chun-Li/Morrigan Max HP
+- Chun-Li/Morrigan Max Stats
+- Chun-Li/Morrigan Max Str
+- Chun-Li/Morrigan Max Def
+- Chun-Li/Morrigan Max Spd
+- Chun-Li/Morrigan Max Tec
+- Chun-Li/Morrigan Max Move
+- Dante/Demitri Max HP
+- Dante/Demitri Max Stats
+- Dante/Demitri Max Str
+- Dante/Demitri Max Def
+- Dante/Demitri Max Spd
+- Dante/Demitri Max Tec
+- Dante/Demitri Max Move
+- Frank/Hsien-Ko Max HP
+- Frank/Hsien-Ko Max Str
+- Frank/Hsien-Ko Max Def
+- Frank/Hsien-Ko Max Spd
+- Frank/Hsien-Ko Max Tec
+- Frank/Hsien-Ko Max Move
+- X/Zero Max HP
+- X/Zero Max Stats
+- X/Zero Max Str
+- X/Zero Max Def
+- X/Zero Max Spd
+- X/Zero Max Tec
+- X/Zero Max Move
+- Chris/Jill Max HP
+- Chris/Jill Max Stats
+- Chris/Jill Max Str
+- Chris/Jill Max Def
+- Chris/Jill Max Spd
+- Chris/Jill Max Tec
+- Chris/Jill Max Move
+- Akira/Pai Max HP
+- Akira/Pai Max Stats
+- Akira/Pai Max Str
+- Akira/Pai Max Def
+- Akira/Pai Max Spd
+- Akira/Pai Max Tec
+- Akira/Pai Max Move
+- Ichiro/Sakura Max HP
+- Ichiro/Sakura Max Stats
+- Ichiro/Sakura Max Str
+- Ichiro/Sakura Max Def
+- Ichiro/Sakura Max Spd
+- Ichiro/Sakura Max Tec
+- Ichiro/Sakura Max Move
+- Gemini/Erica Max HP
+- Gemini/Erica Max Stats
+- Gemini/Erica Max Str
+- Gemini/Erica Max Def
+- Gemini/Erica Max Spd
+- Gemini/Erica Max Tec
+- Gemini/Erica Max Move
+- Kurt/Riela Max HP
+- Kurt/Riela Max Stats
+- Kurt/Riela Max Str
+- Kurt/Riela Max Def
+- Kurt/Riela Max Spd
+- Kurt/Riela Max Tec
+- Kurt/Riela Max Move
+- Zephyr/Leanne Max Hp
+- Zephyr/Leanne Max Stats
+- Zephyr/Leanne Max Str
+- Zephyr/Leanne Max Def
+- Zephyr/Leanne Max Spd
+- Zephyr/Leanne Max Tec
+- Zephyr/Leanne Max Move
+- Toma/Cyrille Max HP
+- Toma/Cyrille Max Stats
+- Toma/Cyrille Max Str
+- Toma/Cyrille Max Def
+- Toma/Cyrille Max Spd
+- Toma/Cyrille Max Tec
+- Toma/Cyrille Max Move
+- Frank/Hsien-Ko Max Stats

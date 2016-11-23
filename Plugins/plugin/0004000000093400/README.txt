@@ -1,0 +1,137 @@
+=============================================
+#	Generated with Gateshark2NTR	    #
+=============================================
+
+=============================================
+#	  How to use this plugin	    #
+=============================================
+1- Press [Select] to shows up the menu
+--> You can navigate in the menu with the DPAD Key UP and DOWN
+--> Press A to activate / de-activate a cheat
+--> Press B to exit the menu and return to the game
+--> You can change the hotkey for showing up the menu by pressing [Start] in the menu
+--> You can adjust the speed of the cheats execution by pressing [Select] in the menu
+Tip:
+-- You can easily navigate in a spoiler with those keys:
+   --> DPAD Key Left: Go back to the upper line of the spoiler
+   --> DPAD Key Right: Go to the last line of the spoiler
+
+=============================================
+#	Cheats available in this plugin	    #
+=============================================
+- Max Health Luffy (Press L)
+- Refill Health Luffy (Press R)
+- Max/Inf Health Luffy
+- Max Health Zolo (Press L)
+- Refill Health Zolo (Press R)
+- Max/Inf Health Zolo
+- Max Health Nami (Press L)
+- Refill Health Nami (Press R)
+- Max/Inf Health Nami
+- Max Health Usopp (Press L)
+- Refill Health Usopp (Press R)
+- Max/Inf Health Usopp
+- Max Health Sanji (Press L)
+- Refill Health Sanji (Press R)
+- Max/Inf Health Sanji
+- Max Health Chopper (Press L)
+- Refill Health Chopper (Press R)
+- Max/Inf Health Chopper
+- Max Health Robin (Press L)
+- Refill Health Robin (Press R)
+- Max/Inf Health Robin
+- Max Health Franky (Press L)
+- Refill Health Franky (Press R)
+- Max/Inf Health Franky
+- Max Health Brook (Press L)
+- Refill Health Brook (Press R)
+- Max/Inf Health Brook
+- Max SP Luffy (Press L)
+- Refill SP Luffy (Press R)
+- Max/Inf SP Luffy
+- Max SP Zolo (Press L)
+- Refill SP Zolo (Press R)
+- Max/Inf SP Zolo
+- Max SP Nami (Press L)
+- Refill SP Nami (Press R)
+- Max/Inf SP Nami
+- Max SP Usopp (Press L)
+- Refill SP Usopp (Press R)
+- Max/Inf SP Usopp
+- Max SP Sanji (Press L)
+- Refill SP Sanji (Press R)
+- Max/Inf SP Sanji
+- Max SP Chopper (Press L)
+- Refill SP Chopper (Press R)
+- Max/Inf SP Chopper
+- Max SP Robin (Press L)
+- Refill SP Robin (Press R)
+- Max/Inf SP Robin
+- Max SP Franky (Press L)
+- Max/Inf SP Franky
+- Refill SP Franky (Press R)
+- Max SP Brook (Press L)
+- Refill SP Brook (Press R)
+- Max/Inf SP Brook
+- Speedchanger Luffy
+- Speedchanger Zolo
+- Speedchanger Nami
+- Speedchanger Usopp
+- Speedchanger Sanji
+- Speedchanger Chopper
+- Speedchanger Robin
+- Speedchanger Franky
+- Speedchanger Brook
+- Jumpspeedchanger Luffy
+- Jumpspeedchanger Zolo
+- Jumpspeedchanger Nami
+- Jumpspeedchanger Usopp
+- Jumpspeedchanger Sanji
+- Jumpspeedchanger Chopper
+- Jumpspeedchanger Robin
+- Jumpspeedchanger Franky
+- Jumpspeedchanger Brook
+- Jumpheightchanger Luffy
+- Jumpheightchanger Zolo
+- Jumpheightchanger Nami
+- Jumpheightchanger Usopp
+- Jumpheightchanger Sanji
+- Jumpheightchanger Chopper
+- Jumpheightchanger Robin
+- Jumpheightchanger Franky
+- Jumpheightchanger Brook
+- Max Item P1 B1 (Press L)
+- Max/Inf Item P1 B1
+- Itemchanger P1 B1
+- Max Item P2 B1 (Press L)
+- Max/Inf Item P2 B1
+- Itemchanger P2 B1
+- Max Item P3 B1 (Press L)
+- Max/Inf Item P3 B1
+- Itemchanger P3 B1
+- Max Item Inv Slot 1 (Press L)
+- Max/Inf Item Inv Slot 1
+- Itemchanger Inv Slot 1
+- Max Item Whole Palette (Press L)
+- Max/Inf Item Whole Palette
+- Max Blue GP (Press L)
+- Refill Blue GP (Press R)
+- Max/Inf Blue GP
+- Max Green GP (Press L)
+- Refill Green GP (Press R)
+- Max/Inf Green GP
+- Max Red GP (Press L)
+- Refill Red GP (Press R)
+- Max/Inf Red GP
+- Max Silver GP (Press L)
+- Refill Silver GP (Press R)
+- Max/Inf Silver GP
+- Max Black GP (Press L)
+- Refill Black GP (Press R)
+- Max/Inf Black GP
+- Max Gold GP (Press L)
+- Refill Gold GP (Press R)
+- Max/Inf Gold GP
+- Max All GP (Press L)
+- Refill All GP (Press R)
+- Max/Inf All GP
