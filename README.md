@@ -17,7 +17,7 @@ All cheat files were intitally sourced from fort42: http://www.fort42.com/gatesh
 
 2. Open bootNTR Selector and let it do it's thing
 
-3. Once you're back at the home menu open supportd game
+3. Once you're back at the home menu open supported game
 
 4. ???
 
