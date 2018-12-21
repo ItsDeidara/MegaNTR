@@ -78,3 +78,107 @@ D3000000 08000000
 28222715 00000001
 28222716 00000002
 28222717 00000003
+
+passive skills codes(ex - 000000(01), change (01),(02),(03) to following)
+01 - +mute
+02 - +poison
+03 - +paralyze
+04 - +stone
+05 - life bonus
+06 - mana bonus
+07 - life surge
+08 - mana surge
+09 - hero aid
+10 - phys boost
+11 - phys amp
+12 - fire boost
+13 - fire amp
+14 - ice boost
+15 - ice amp
+16 - elec boost
+17 - elec amp
+18 - force boost
+19 - force amp
+20 - anti most
+21 - anti all
+22 - null phys
+23 - null fire
+24 - null ice
+25 - null elec
+26 - null force
+27 - null curse
+28 - phys drain
+29 - fire drain
+30 - elec repel
+31 - force repel
+32 - watchful
+33 - endure
+34 - life aid
+35 - life lift
+36 - mana aid
+37 - victory cry
+38 - pierce
+39 - race-o
+40 - hero soul
+41 - beast eye
+42 - dragon eye
+43 - grimoire
+44 - crisis might
+45 - critical heal
+46 - extra charge
+47 - extra savings
+48 - monstrous cry
+49 - vigilant
+
+command skills codes
+01 - attack
+02 - agi
+03 - agidyne
+04 - maragi
+05 - maragidyne
+06 - bufu
+07 - bufudyne
+08 - mabufu
+09 - mabufudyne 
+10 - mazan
+11 - mazandyne
+12 - megido
+13 - megidolaon
+14 - fire dance
+15 - ice dance
+16 - elec dance
+17 - force dance
+18 - holy dance
+19 - drain
+20 - berserk
+21 - mighty hit
+22 - anger hit
+23 - brutal hit
+24 - hassohappa
+25 - deathbound
+26 - weak kill
+27 - desperation
+28 - makajamaon
+29 - gigajama 
+30 - dia
+31 - diarahan
+32 - media
+33 - mediarahan
+34 - amrita
+35 - prayer
+36 - recarm
+37 - samarecarm
+38 - gunfire
+39 - guard
+40 - babylon
+41 - megidoladyne
+42 - mow down
+43 - piercing hit
+44 - holy strike
+45 - mullti strike
+46 - recarmloss
+47 - final strike
+48 - dream feast
+49 - cursed dance
+50 - mazandyne
+51 - megidolaon
