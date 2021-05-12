@@ -79,58 +79,7 @@ D3000000 08000000
 28222716 00000002
 28222717 00000003
 
-passive skills codes(ex - 000000(01), change (01),(02),(03) to following)
-01 - +mute
-02 - +poison
-03 - +paralyze
-04 - +stone
-05 - life bonus
-06 - mana bonus
-07 - life surge
-08 - mana surge
-09 - hero aid
-10 - phys boost
-11 - phys amp
-12 - fire boost
-13 - fire amp
-14 - ice boost
-15 - ice amp
-16 - elec boost
-17 - elec amp
-18 - force boost
-19 - force amp
-20 - anti most
-21 - anti all
-22 - null phys
-23 - null fire
-24 - null ice
-25 - null elec
-26 - null force
-27 - null curse
-28 - phys drain
-29 - fire drain
-30 - elec repel
-31 - force repel
-32 - watchful
-33 - endure
-34 - life aid
-35 - life lift
-36 - mana aid
-37 - victory cry
-38 - pierce
-39 - race-o
-40 - hero soul
-41 - beast eye
-42 - dragon eye
-43 - grimoire
-44 - crisis might
-45 - critical heal
-46 - extra charge
-47 - extra savings
-48 - monstrous cry
-49 - vigilant
-
-command skills codes
+command skills codes (ex - 000000(01), change (01),(02),(03) to following)
 01 - attack
 02 - agi
 03 - agidyne
@@ -140,6 +89,12 @@ command skills codes
 07 - bufudyne
 08 - mabufu
 09 - mabufudyne 
+0a - zio
+0b - ziodyne
+0c - mazio
+0d - maziodyne
+0e - zan
+0f - zandyne
 10 - mazan
 11 - mazandyne
 12 - megido
@@ -150,6 +105,12 @@ command skills codes
 17 - force dance
 18 - holy dance
 19 - drain
+1a - judgement
+1b - petra eyes
+1c - mute eyes
+1d - paral eyes
+1e - death call
+1f - power hit
 20 - berserk
 21 - mighty hit
 22 - anger hit
@@ -160,6 +121,12 @@ command skills codes
 27 - desperation
 28 - makajamaon
 29 - gigajama 
+2a - diajama
+2b - makarakarn
+2c - tetrakarn
+2d - might call
+2e - shield all
+2f - taunt
 30 - dia
 31 - diarahan
 32 - media
@@ -170,6 +137,12 @@ command skills codes
 37 - samarecarm
 38 - gunfire
 39 - guard
+3a - devils fuge
+3b - vampiric mist
+3c - lost flame
+3d - spawn
+3e - fire of sodom
+3f - purging light
 40 - babylon
 41 - megidoladyne
 42 - mow down
@@ -180,5 +153,118 @@ command skills codes
 47 - final strike
 48 - dream feast
 49 - cursed dance
+4a - divine wind
+4b - godly whip
+4c - holy water(does not heal)
+4d - arbor whip
+4e - holy whip
+4f - godly whip
 50 - mazandyne
 51 - megidolaon
+52 - ?
+
+passive skills codes
+01 - +mute
+02 - +poison
+03 - +paralyze
+04 - +stone
+05 - life bonus
+06 - mana bonus
+07 - life surge
+08 - mana surge
+09 - hero aid
+0a - ares aid
+0b - drain hit
+0c - attack all
+0d - counter
+0e - retaliate
+0f - avenge
+10 - phys boost
+11 - phys amp
+12 - fire boost
+13 - fire amp
+14 - ice boost
+15 - ice amp
+16 - elec boost
+17 - elec amp
+18 - force boost
+19 - force amp
+1a - anti-phys
+1b - anti-fire
+1c - anti-ice
+1d - anti-elec
+1e - anti-force
+1f - anti-curse
+20 - anti most
+21 - anti all
+22 - null phys
+23 - null fire
+24 - null ice
+25 - null elec
+26 - null force
+27 - null curse
+28 - phys drain
+29 - fire drain
+2a - ice drain
+2b - elec drain
+2c - force drain
+2d - phys repel
+2e - fire repel
+2f - ice repel
+30 - elec repel
+31 - force repel
+32 - watchful
+33 - endure
+34 - life aid
+35 - life lift
+36 - mana aid
+37 - victory cry
+38 - pierce
+39 - race-o
+3a - race-d
+3b - dual shadow
+3c - extra one 
+3d - leader soul
+3e - knight soul
+3f - paladin soul
+40 - hero soul
+41 - beast eye
+42 - dragon eye
+43 - grimoire
+44 - crisis might
+45 - critical heal
+46 - extra charge
+47 - extra savings
+48 - monstrous cry
+49 - vigilant
+4a - victory cry(weakened)
+
+auto/racial skills codes
+01 - blitzkrieg/affection
+02 - hustle/awakening
+03 - fortify/chaos wave
+04 - barrier/constrict
+05 - wall/evil wave
+06 - full might/blood wine
+07 - ban phys/flight
+08 - ban fire/sacrifice 
+09 - ban ice/switch
+0a - ban elec/animal leg
+0b - ban force/devil speed
+0c - ban  curse/phantasma
+0d - rage soul/charm
+0e - grace/tyranny
+0f - marksman/double up
+10 - tailwind/aggravate
+11 - magic yin/bind
+12 - battle aura/devotion
+13 - revive/long range(works)
+14 - magic yang/immortal(no effect)
+15 - healing/evil flame(no effect) 
+16 - alter pain/hot flower(no effect)
+17 - debilitate/dark hand(no effect)
+18 - health save/violent god(no effect)
+19 - strengthen/kings gate(no effect)
+1a - pierce+/kings gate(no effect)
+1b - shield all+/fiend(no effect)
+1c - dual shadow+/four devas(works)
