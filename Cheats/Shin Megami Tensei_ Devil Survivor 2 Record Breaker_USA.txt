@@ -33,6 +33,241 @@ http://www.fort42.com/gateshark/game1814/
 08267505 0000FFFF
 08267506 0000FFFF
 08267507 0000FFFF
+
+command skills codes (ex - 000000(01), change (01),(02),(03) to following)
+01 - attack
+02 - agi
+03 - agidyne
+04 - maragi
+05 - maragidyne
+06 - bufu
+07 - bufudyne
+08 - mabufu
+09 - mabufudyne 
+0a - zio
+0b - ziodyne
+0c - mazio
+0d - maziodyne
+0e - zan
+0f - zandyne
+10 - mazan
+11 - mazandyne
+12 - megido
+13 - megidolaon
+14 - fire dance
+15 - ice dance
+16 - elec dance
+17 - force dance
+18 - holy dance
+19 - drain
+1a - judgement
+1b - petra eyes
+1c - mute eyes
+1d - paral eyes
+1e - death call
+1f - power hit
+20 - berserk
+21 - mighty hit
+22 - anger hit
+23 - brutal hit
+24 - hassohappa
+25 - deathbound
+26 - weak kill
+27 - desperation
+28 - makajamaon
+29 - gigajama 
+2a - diajama
+2b - makarakarn
+2c - tetrakarn
+2d - might call
+2e - shield all
+2f - taunt
+30 - dia
+31 - diarahan
+32 - media
+33 - mediarahan
+34 - amrita
+35 - prayer
+36 - recarm
+37 - samarecarm
+38 - gunfire
+39 - guard
+3a - devils fuge
+3b - vampiric mist
+3c - lost flame
+3d - spawn
+3e - fire of sodom
+3f - purging light
+40 - babylon
+41 - megidoladyne
+42 - piercing hit
+43 - multi hit
+44 - holy strike
+45 - power charge
+46 - sexy gaze
+47 - marin kirin
+48 - extra cancel
+49 - assassinate
+4a - fatal strike
+4b - diarama
+4c - nigayomogi
+4d - recarmloss
+4e - mow down
+4f - snipe
+50 - life drain
+51 - multi strike
+52 - inferno  
+7d - final hit
+7e - dream eater
+7f - demon dance 
+80 - roche lobe
+81 - darkness blade
+82 - defense knife
+84 - then,die!
+85 - dont hurt me! 
+86 - wanna beating?
+87 - shadow scythe
+88 - no killing...
+89 - shadow shield
+
+passive skills codes
+01 - +mute
+02 - +poison
+03 - +paralyze
+04 - +stone
+05 - life bonus
+06 - mana bonus
+07 - life surge
+08 - mana surge
+09 - hero aid
+0a - ares aid
+0b - drain hit
+0c - attack all
+0d - counter
+0e - retaliate
+0f - avenge
+10 - phys boost
+11 - phys amp
+12 - fire boost
+13 - fire amp
+14 - ice boost
+15 - ice amp
+16 - elec boost
+17 - elec amp
+18 - force boost
+19 - force amp
+1a - anti-phys
+1b - anti-fire
+1c - anti-ice
+1d - anti-elec
+1e - anti-force
+1f - anti-curse
+20 - anti most
+21 - anti all
+22 - null phys
+23 - null fire
+24 - null ice
+25 - null elec
+26 - null force
+27 - null curse
+28 - phys drain
+29 - fire drain
+2a - ice drain
+2b - elec drain
+2c - force drain
+2d - phys repel
+2e - fire repel
+2f - ice repel
+30 - elec repel
+31 - force repel
+32 - watchful
+33 - endure
+34 - life aid
+35 - life lift
+36 - mana aid
+37 - victory cry
+38 - pierce
+39 - race-o
+3a - race-d
+3b - dual shadow
+3c - extra one 
+3d - leader soul
+3e - knight soul
+3f - paladin soul
+40 - hero soul
+41 - beast eye
+42 - dragon eye
+43 - crit up
+44 - dodge
+45 - moneybags 
+46 - quick move
+47 - vigilant
+48 - grimoire
+49 - double strike
+4a - preserve extra
+4b - anti-ailment
+4c - +forget
+4d - extra bonus
+4e - swift step
+4f - life stream
+50 - mana stream
+51 - ultimate hit
+52 - anti almighty
+57 - final dragon 
+5b - hidden strength
+5c - holy blessing
+5d - excharge
+5e - extra zero 
+5f - spirit gain 
+60 - hit rate gain
+61 - quick wit
+62 - parkour 
+63 - hitori nabe
+64 - ikebukuro king
+65 - immortal barman
+66 - defenseless 
+67 - coiste bodhar
+68 - dark courier
+69 - massive shadow
+6a - hound eyes
+
+auto skill codes
+01 - blitzkrieg
+02 - hustle
+03 - fortify
+04 - barrier
+05 - wall
+06 - full might
+07 - ban phys
+08 - ban fire
+09 - ban ice
+0a - ban elec
+0b - ban force
+0c - ban curse
+0d - rage soul
+0e - grace
+0f - marksman
+10 - tailwind
+11 - magic yin
+12 - battle aura
+13 - revive
+14 - magic yang
+15 - healing
+16 - alter pain
+17 - weaken
+18 - debilitate
+19 - health save
+1a - strengthen
+1b - grimoire+
+1c - desperation
+1d - rejuvenate
+1e - null auto
+1f - pierce+
+20 - endure+ 
+22 - temptation(lilith skill) 
+23 - shield all ex
+24 - dual shadow ex
+25 - kinetic vision
 08267508 0000FFFF
 
 [All char.fast lvl up]
