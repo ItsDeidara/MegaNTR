@@ -1,11 +1,10 @@
 Pokemon Super Mystery Dungeon (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1782/
+instructions: for the pokemon modifier look up the pokemon's national dex number and convert it to hexadecimal and replace the last 3 digits
+for the move modifier go to this link: https://bulbapedia.bulbagarden.net/wiki/List_of_moves find the move you want and take the number of that move and convert to hexadecimal and replace the last 3 digits... (example: if the hexadecimal comes out like 0x1AC then replace last 3 with 1AC if it comes out 0x3B then replace the last 3 with 03B)( best way to convert to hexadecimal is to tell google: *number* to hexadecimal)
 ----------------------------------------------------
 
-[9999 Gold Bars]
+[9999 money in bag]
 00A14AD8 0000270F
 
 [Max Attack for Slot 1 Pokemon]
